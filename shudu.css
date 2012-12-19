@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+.shudu
+{
+	width:295px;
+	height:313px;
+	border-bottom:2px solid #0CF;
+	border-right:2px solid #0CF;
+	border-left:1px solid #0CF;
+	border-top:1px solid #0CF;
+}
+
+.shudu input
+{
+	width:30px;
+	height:30px;
+	border-top:1px solid #0CF;
+	border-left:1px solid #0CF;
+	font-size:14px;
+	text-align:center;
+	display:block;
+	cursor:pointer;
+	float:left;
+	background:#fafafa;
+}
